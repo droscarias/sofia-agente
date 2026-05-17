@@ -1,0 +1,24 @@
+# Configuración del negocio — Dr. Oscar Arias
+negocio:
+  nombre: "Consultorio Dr. Oscar Arias"
+  descripcion: "Odontología estética de lujo en CDMX. Especialista con 8 años de experiencia y más de 2,400 pacientes atendidos. Calificación 5.0 estrellas en Google."
+  direccion: "Av. Insurgentes Sur 1188, frente al Parque Hundido, Benito Juárez, CDMX"
+  telefono: "55 2946 0422"
+  whatsapp: "https://wa.me/525529460422"
+  sitio_web: "https://www.droscarias.com"
+  agenda_online: "https://ff.healthatom.io/kPH9Yy"
+  horario: "Lunes a Viernes 8am-8pm (descanso 12:30-2pm), Miércoles 8:30am-8pm, Sábado cerrado, Domingo 9am-12pm"
+
+agente:
+  nombre: "Sofía"
+  tono: "empático y cálido, profesional"
+  casos_de_uso:
+    - "Responder preguntas frecuentes sobre servicios y precios"
+    - "Agendar citas y reservaciones"
+    - "Proporcionar información del consultorio"
+    - "Atender leads y pacientes nuevos"
+
+metadata:
+  creado: "2026-05-16"
+  version: "1.0"
+  proveedor_whatsapp: "twilio"
